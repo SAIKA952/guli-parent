@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://g.alicdn.com/de/prismplayer/2.8.1/skins/default/aliplayer-min.css" />
+    <script charset="utf-8" type="text/javascript" src="https://g.alicdn.com/de/prismplayer/2.8.1/aliplayer-min.js"></script>
+</head>
+<body>
+    <div  class="prism-player" id="J_prismPlayer"></div>
+    <script>
+        var player = new Aliplayer({
+            id: 'J_prismPlayer',
+            width: '30%',
+            autoplay: false,
+            cover: 'http://liveroom-img.oss-cn-qingdao.aliyuncs.com/logo.png',  
+            // 根据视频地址进行播放配置
+            source: 'https://outin-9ad33fd3b61711ea9e4500163e1c955c.oss-cn-shanghai.aliyuncs.com/sv/2feea240-172fb2f59c0/2feea240-172fb2f59c0.mp4?Expires=1593847308&OSSAccessKeyId=LTAIxSaOfEzCnBOj&Signature=6kYVXm2OxpIeT388IzRRp4FyqBo%3D'
+
+        },function(player){
+            console.log('播放器创建好了。')
+        });
+    </script>
+</body>
+</html>
