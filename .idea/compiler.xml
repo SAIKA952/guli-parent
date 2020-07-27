@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="service_ucenter" />
+        <module name="service_statistics" />
+        <module name="api_gateway" />
+        <module name="service_oss" />
+        <module name="service_acl" />
+        <module name="service_base" />
+        <module name="service_order" />
+        <module name="common_utils" />
+        <module name="service_cms" />
+        <module name="service_msm" />
+        <module name="service_vod" />
+        <module name="service_edu" />
+        <module name="spring_security" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="api_gateway" target="1.8" />
+      <module name="back-end" target="1.8" />
+      <module name="common" target="1.8" />
+      <module name="common_utils" target="1.8" />
+      <module name="infrastructure" target="1.8" />
+      <module name="service" target="1.8" />
+      <module name="service_acl" target="1.8" />
+      <module name="service_base" target="1.8" />
+      <module name="service_cms" target="1.8" />
+      <module name="service_edu" target="1.8" />
+      <module name="service_msm" target="1.8" />
+      <module name="service_order" target="1.8" />
+      <module name="service_oss" target="1.8" />
+      <module name="service_statistics" target="1.8" />
+      <module name="service_ucenter" target="1.8" />
+      <module name="service_vod" target="1.8" />
+      <module name="spring_security" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="api_gateway" options="-parameters" />
+      <module name="common_utils" options="-parameters" />
+      <module name="service_acl" options="-parameters" />
+      <module name="service_base" options="-parameters" />
+      <module name="service_cms" options="-parameters" />
+      <module name="service_edu" options="-parameters" />
+      <module name="service_msm" options="-parameters" />
+      <module name="service_order" options="-parameters" />
+      <module name="service_oss" options="-parameters" />
+      <module name="service_statistics" options="-parameters" />
+      <module name="service_ucenter" options="-parameters" />
+      <module name="service_vod" options="-parameters" />
+      <module name="spring_security" options="-parameters" />
+    </option>
+  </component>
+</project>

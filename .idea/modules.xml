@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/back-end/infrastructure/api_gateway/api_gateway.iml" filepath="$PROJECT_DIR$/back-end/infrastructure/api_gateway/api_gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/back-end/back-end.iml" filepath="$PROJECT_DIR$/back-end/back-end.iml" />
+      <module fileurl="file://$PROJECT_DIR$/back-end/common/common.iml" filepath="$PROJECT_DIR$/back-end/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/back-end/common/common_utils/common_utils.iml" filepath="$PROJECT_DIR$/back-end/common/common_utils/common_utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/guli-parent.iml" filepath="$PROJECT_DIR$/.idea/guli-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/back-end/infrastructure/infrastructure.iml" filepath="$PROJECT_DIR$/back-end/infrastructure/infrastructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/back-end/service/service.iml" filepath="$PROJECT_DIR$/back-end/service/service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/back-end/service/service_acl/service_acl.iml" filepath="$PROJECT_DIR$/back-end/service/service_acl/service_acl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/back-end/common/service_base/service_base.iml" filepath="$PROJECT_DIR$/back-end/common/service_base/service_base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/back-end/service/service_cms/service_cms.iml" filepath="$PROJECT_DIR$/back-end/service/service_cms/service_cms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/back-end/service/service_edu/service_edu.iml" filepath="$PROJECT_DIR$/back-end/service/service_edu/service_edu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/back-end/service/service_msm/service_msm.iml" filepath="$PROJECT_DIR$/back-end/service/service_msm/service_msm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/back-end/service/service_order/service_order.iml" filepath="$PROJECT_DIR$/back-end/service/service_order/service_order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/back-end/service/service_oss/service_oss.iml" filepath="$PROJECT_DIR$/back-end/service/service_oss/service_oss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/back-end/service/service_statistics/service_statistics.iml" filepath="$PROJECT_DIR$/back-end/service/service_statistics/service_statistics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/back-end/service/service_ucenter/service_ucenter.iml" filepath="$PROJECT_DIR$/back-end/service/service_ucenter/service_ucenter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/back-end/service/service_vod/service_vod.iml" filepath="$PROJECT_DIR$/back-end/service/service_vod/service_vod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/back-end/common/spring_security/spring_security.iml" filepath="$PROJECT_DIR$/back-end/common/spring_security/spring_security.iml" />
+    </modules>
+  </component>
+</project>
